@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+openai
+pinecone-client
+python-multipart
+streamlit
+PyPDF2
+python-docx
+pydantic
+requests
+python-dotenv
